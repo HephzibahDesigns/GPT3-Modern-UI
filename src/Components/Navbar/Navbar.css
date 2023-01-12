@@ -12,11 +12,11 @@
   align-items: center;
 }
 
-.gpt3__navbar__logo {
+.gpt3__navbar__links-logo {
   margin-right: 2rem;
 }
 
-.gpt3__navbar__logo img {
+.gpt3__navbar__links-logo img {
   width: 62px;
   height: 16px;
 }

@@ -89,7 +89,7 @@ a {
   }
 }
 
-/* 700px for mid rage devices e.g tablets */
+/* 700px for mid range devices e.g tablets */
 @media screen and (max-width: 700px) {
   .section__padding {
     padding: 4rem;
